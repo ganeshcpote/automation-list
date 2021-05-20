@@ -1,4 +1,4 @@
-# Automation / POC List
+# Automation List
 
 List of automation, POC and their respective code repositories. Please do write any feedback or suggestions to ganesh.c.pote@gmail.com
 
